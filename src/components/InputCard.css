@@ -1,0 +1,77 @@
+
+.card {
+    background-color: #066845;
+    width: 500px;
+    height: 275px;
+    margin: auto;
+    padding-top: 20px;
+    display: flex;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.current-savings {
+    margin-left: -85px;
+}
+.yearly-savings {
+    margin-left: -88px;
+    margin-top: 40px;
+}
+.expected-interest {
+    margin-left: -25px;
+}
+.investment {
+    margin-left: 60px;
+}
+.investment-duration {
+    margin-top: 40px;
+    margin-left: -25px;
+}
+.first-input {
+    margin-left: 50px;
+}
+.second-input {
+    margin-left: 60px;
+}
+p {
+    font-size: 9px;
+    font-weight: 700;
+}
+
+input {
+    background-color: #066845;
+    border: none;
+    border: 0.001rem solid white;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    margin: auto;
+}
+
+.buttons {
+    margin-top: 40px;
+    display: flex;
+    text-align: center;
+    margin-left: -70px;
+}
+
+button {
+    height: 35px;
+    width: 100px;
+    cursor: pointer;
+    
+}
+
+.reset {
+    background-color: #066845;
+    border-style: none;
+    font-size: large;
+    color: white;
+}
+
+.calculate {
+    border-radius: 5px;
+    border-style: none;
+    font-size: large;
+    background-color: #043020;
+    color: white;
+}
